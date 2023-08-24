@@ -12,7 +12,7 @@ html {
 
       padding: 10px;
       font-family: "Open Sans", sans-serif;
-      background-color: #6930c3;
+      background-color: #80ffdb;
       box-sizing: border-box;
       min-height: 100vh;
 
@@ -147,7 +147,7 @@ html {
                 cursor: pointer;
                 .fa-bone {
                   font-size: 35px;
-                  color: #fff;
+                  color: #c7f7c7;
                 }
               }
             }
@@ -563,7 +563,7 @@ html {
                               font-size: 17px;
                               line-height: 20px;
                               padding-left: 30px;
-                              color: $main-color1;
+
                               @include mobile {
                                 font-size: 15px;
                                 padding-left: 15px;

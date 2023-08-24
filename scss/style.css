@@ -9,7 +9,7 @@ html body #wrapper {
   overflow-x: hidden;
   padding: 10px;
   font-family: "Open Sans", sans-serif;
-  background-color: #6930c3;
+  background-color: #80ffdb;
   box-sizing: border-box;
   min-height: 100vh;
 }
@@ -139,7 +139,7 @@ html body #wrapper #container header .header-bar .wrapper-bgColor #bgColor-btn {
 }
 html body #wrapper #container header .header-bar .wrapper-bgColor #bgColor-btn .fa-bone {
   font-size: 35px;
-  color: #fff;
+  color: #c7f7c7;
 }
 html body #wrapper #container header .header-bar h1 {
   text-align: center;
@@ -562,7 +562,6 @@ html body #wrapper #container section .content-container .tab-content #project .
   font-size: 17px;
   line-height: 20px;
   padding-left: 30px;
-  color: #6930c3;
 }
 @media (max-width: 757px) {
   html body #wrapper #container section .content-container .tab-content #project .project-list li .project-box .project-content .project-explain ul li {
