@@ -711,7 +711,7 @@ html {
                             justify-content: center;
                             padding: 20px 0px;
                             position: relative;
-                            width: 230px;
+                            width: 270px;
                             &:last-child {
                               .timeline-image::after {
                                 display: none;
@@ -759,7 +759,7 @@ html {
                               .timeline-body {
                                 background-color: #fff;
                                 border-radius: 5px;
-                                padding: 3px;
+                                padding: 8px;
                               }
                             }
                             &:nth-child(even) .timeline-panel {
@@ -777,7 +777,7 @@ html {
                             li {
                               display: flex;
                               justify-content: center;
-                              width: 230px;
+                              width: 270px;
                               .timeline-image {
                                 display: none;
                               }

@@ -719,8 +719,10 @@ html body #wrapper #container section .content-container .tab-content #aboutme .
   justify-content: center;
   padding: 20px 0px;
   position: relative;
-  width: 230px;
+  width: 270px;
 }
+
+
 html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline li:last-child .timeline-image::after {
   display: none;
 }
@@ -762,7 +764,7 @@ html body #wrapper #container section .content-container .tab-content #aboutme .
 html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline li .timeline-panel .timeline-body {
   background-color: #fff;
   border-radius: 5px;
-  padding: 3px;
+  padding: 8px;
 }
 html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline li:nth-child(even) .timeline-panel {
   left: 100%;
@@ -776,7 +778,7 @@ html body #wrapper #container section .content-container .tab-content #aboutme .
   html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline li {
     display: flex;
     justify-content: center;
-    width: 230px;
+    width: 100%;
   }
   html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline li .timeline-image {
     display: none;
