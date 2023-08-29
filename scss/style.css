@@ -721,8 +721,6 @@ html body #wrapper #container section .content-container .tab-content #aboutme .
   position: relative;
   width: 270px;
 }
-
-
 html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline li:last-child .timeline-image::after {
   display: none;
 }
@@ -748,6 +746,7 @@ html body #wrapper #container section .content-container .tab-content #aboutme .
 html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline li .timeline-panel {
   position: absolute;
   left: -100%;
+  top: 0px;
   width: 100%;
 }
 html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline li .timeline-panel .timeline-heading .date {
@@ -769,6 +768,7 @@ html body #wrapper #container section .content-container .tab-content #aboutme .
 html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline li:nth-child(even) .timeline-panel {
   left: 100%;
   width: 100%;
+  top: 0px;
 }
 html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline .thanks {
   color: #fff;
@@ -778,7 +778,7 @@ html body #wrapper #container section .content-container .tab-content #aboutme .
   html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline li {
     display: flex;
     justify-content: center;
-    width: 100%;
+    width: 270px;
   }
   html body #wrapper #container section .content-container .tab-content #aboutme .page-section .container .aboutme-content-box .timeline-container .timeline li .timeline-image {
     display: none;
