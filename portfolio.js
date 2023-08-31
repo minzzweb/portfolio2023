@@ -157,7 +157,6 @@ document.addEventListener("DOMContentLoaded", function () {
     handleHash();
   }
 
-  window.location.hash = "#aboutme"; //새로고침시 초기화
   creatTabFn(".content-container");
 
   //----------------------------------------------------------------------------
